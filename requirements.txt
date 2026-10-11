@@ -1,0 +1,5 @@
+opencv-python
+scenedetect
+Pillow
+PyYAML
+requests

@@ -1,0 +1,821 @@
+schema_version: 1
+slug: roller-skating-snl
+style:
+  project_name: Roller Skating SNL Sketch
+  style_phrase: modern SNL live-sketch, digital video, single-camera studio sitcom
+    look
+  lighting_phrase: flat even studio lighting, three-point setup
+  grain_grade_phrase: clean digital broadcast video, slight sharpening, no film grain
+  genre_mode: comedy
+  default_restyle_provider: manual
+source_video_path: C:\Users\jenis\silent-film-remake\projects\roller_skating.mp4
+scenes:
+- scene_index: 0
+  start_s: 0.0
+  end_s: 24.04
+  candidates:
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0000_cand0.jpg
+    timestamp_s: 1.8492307692307692
+    frame_number: 46
+    sharpness: 46.05268711401521
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0000_cand1.jpg
+    timestamp_s: 3.6984615384615385
+    frame_number: 92
+    sharpness: 44.962427166276164
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0000_cand2.jpg
+    timestamp_s: 5.547692307692308
+    frame_number: 138
+    sharpness: 47.01916521714428
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0000_cand3.jpg
+    timestamp_s: 7.396923076923077
+    frame_number: 184
+    sharpness: 50.35936921218061
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0000_cand4.jpg
+    timestamp_s: 9.246153846153847
+    frame_number: 231
+    sharpness: 50.93462721676204
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0000_cand5.jpg
+    timestamp_s: 11.095384615384615
+    frame_number: 277
+    sharpness: 52.146690014033524
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0000_cand6.jpg
+    timestamp_s: 12.944615384615384
+    frame_number: 323
+    sharpness: 78.44785666958158
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0000_cand7.jpg
+    timestamp_s: 14.793846153846154
+    frame_number: 369
+    sharpness: 78.74728210291794
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0000_cand8.jpg
+    timestamp_s: 16.643076923076922
+    frame_number: 416
+    sharpness: 79.12707213046552
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0000_cand9.jpg
+    timestamp_s: 18.492307692307694
+    frame_number: 462
+    sharpness: 61.966300529981396
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0000_cand10.jpg
+    timestamp_s: 20.34153846153846
+    frame_number: 508
+    sharpness: 73.61394888072539
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0000_cand11.jpg
+    timestamp_s: 22.19076923076923
+    frame_number: 554
+    sharpness: 71.15595487507427
+  reviewed: true
+  kept: true
+  chosen_frame_path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0000_cand8.jpg
+- scene_index: 1
+  start_s: 24.04
+  end_s: 27.4
+  candidates:
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0001_cand0.jpg
+    timestamp_s: 24.298461538461538
+    frame_number: 607
+    sharpness: 49.401583718060415
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0001_cand1.jpg
+    timestamp_s: 24.556923076923077
+    frame_number: 613
+    sharpness: 48.82469030121226
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0001_cand2.jpg
+    timestamp_s: 24.815384615384616
+    frame_number: 620
+    sharpness: 44.343273029778224
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0001_cand3.jpg
+    timestamp_s: 25.07384615384615
+    frame_number: 626
+    sharpness: 46.46558978179178
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0001_cand4.jpg
+    timestamp_s: 25.33230769230769
+    frame_number: 633
+    sharpness: 46.097857766953865
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0001_cand5.jpg
+    timestamp_s: 25.59076923076923
+    frame_number: 639
+    sharpness: 44.222032601365434
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0001_cand6.jpg
+    timestamp_s: 25.84923076923077
+    frame_number: 646
+    sharpness: 46.96109943817143
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0001_cand7.jpg
+    timestamp_s: 26.107692307692307
+    frame_number: 652
+    sharpness: 46.90440440545428
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0001_cand8.jpg
+    timestamp_s: 26.366153846153846
+    frame_number: 659
+    sharpness: 47.139915109382706
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0001_cand9.jpg
+    timestamp_s: 26.62461538461538
+    frame_number: 665
+    sharpness: 47.51604646963857
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0001_cand10.jpg
+    timestamp_s: 26.88307692307692
+    frame_number: 672
+    sharpness: 50.22651713062595
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0001_cand11.jpg
+    timestamp_s: 27.14153846153846
+    frame_number: 678
+    sharpness: 50.56323815946226
+  reviewed: true
+  kept: true
+  chosen_frame_path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0001_cand11.jpg
+- scene_index: 2
+  start_s: 27.4
+  end_s: 45.44
+  candidates:
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0002_cand0.jpg
+    timestamp_s: 28.787692307692307
+    frame_number: 719
+    sharpness: 46.55327866067466
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0002_cand1.jpg
+    timestamp_s: 30.175384615384615
+    frame_number: 754
+    sharpness: 61.62914448302376
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0002_cand2.jpg
+    timestamp_s: 31.56307692307692
+    frame_number: 789
+    sharpness: 64.33141627814571
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0002_cand3.jpg
+    timestamp_s: 32.95076923076923
+    frame_number: 823
+    sharpness: 49.6809934413543
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0002_cand4.jpg
+    timestamp_s: 34.33846153846154
+    frame_number: 858
+    sharpness: 51.25773290397714
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0002_cand5.jpg
+    timestamp_s: 35.72615384615384
+    frame_number: 893
+    sharpness: 45.527587124099114
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0002_cand6.jpg
+    timestamp_s: 37.113846153846154
+    frame_number: 927
+    sharpness: 38.02997221607103
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0002_cand7.jpg
+    timestamp_s: 38.50153846153846
+    frame_number: 962
+    sharpness: 48.67584394523714
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0002_cand8.jpg
+    timestamp_s: 39.889230769230764
+    frame_number: 997
+    sharpness: 49.49058882835585
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0002_cand9.jpg
+    timestamp_s: 41.276923076923076
+    frame_number: 1031
+    sharpness: 51.23643982189977
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0002_cand10.jpg
+    timestamp_s: 42.66461538461538
+    frame_number: 1066
+    sharpness: 46.63792349110508
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0002_cand11.jpg
+    timestamp_s: 44.05230769230769
+    frame_number: 1101
+    sharpness: 43.067954028048675
+  reviewed: true
+  kept: true
+  chosen_frame_path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0002_cand2.jpg
+- scene_index: 3
+  start_s: 45.44
+  end_s: 77.48
+  candidates:
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0003_cand0.jpg
+    timestamp_s: 47.90461538461538
+    frame_number: 1197
+    sharpness: 56.96023685959972
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0003_cand1.jpg
+    timestamp_s: 50.36923076923077
+    frame_number: 1259
+    sharpness: 63.1176844012167
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0003_cand2.jpg
+    timestamp_s: 52.83384615384615
+    frame_number: 1320
+    sharpness: 37.92653645819937
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0003_cand3.jpg
+    timestamp_s: 55.29846153846154
+    frame_number: 1382
+    sharpness: 76.75403977242209
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0003_cand4.jpg
+    timestamp_s: 57.76307692307692
+    frame_number: 1444
+    sharpness: 82.21089885042083
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0003_cand5.jpg
+    timestamp_s: 60.22769230769231
+    frame_number: 1505
+    sharpness: 80.18821945301573
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0003_cand6.jpg
+    timestamp_s: 62.69230769230769
+    frame_number: 1567
+    sharpness: 61.757566523404755
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0003_cand7.jpg
+    timestamp_s: 65.15692307692308
+    frame_number: 1628
+    sharpness: 73.4004364382876
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0003_cand8.jpg
+    timestamp_s: 67.62153846153846
+    frame_number: 1690
+    sharpness: 65.14045587428541
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0003_cand9.jpg
+    timestamp_s: 70.08615384615385
+    frame_number: 1752
+    sharpness: 80.31526663125096
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0003_cand10.jpg
+    timestamp_s: 72.55076923076923
+    frame_number: 1813
+    sharpness: 64.25526066026565
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0003_cand11.jpg
+    timestamp_s: 75.01538461538462
+    frame_number: 1875
+    sharpness: 67.89339409304623
+  reviewed: true
+  kept: false
+  chosen_frame_path: null
+- scene_index: 4
+  start_s: 77.48
+  end_s: 81.2
+  candidates:
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0004_cand0.jpg
+    timestamp_s: 77.76615384615386
+    frame_number: 1944
+    sharpness: 43.18667331690324
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0004_cand1.jpg
+    timestamp_s: 78.05230769230769
+    frame_number: 1951
+    sharpness: 42.01349862591337
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0004_cand2.jpg
+    timestamp_s: 78.33846153846154
+    frame_number: 1958
+    sharpness: 39.47106519235623
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0004_cand3.jpg
+    timestamp_s: 78.62461538461538
+    frame_number: 1965
+    sharpness: 39.97423026868939
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0004_cand4.jpg
+    timestamp_s: 78.91076923076923
+    frame_number: 1972
+    sharpness: 40.50057966797173
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0004_cand5.jpg
+    timestamp_s: 79.19692307692308
+    frame_number: 1979
+    sharpness: 40.79225886506108
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0004_cand6.jpg
+    timestamp_s: 79.48307692307692
+    frame_number: 1987
+    sharpness: 42.37100836783317
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0004_cand7.jpg
+    timestamp_s: 79.76923076923077
+    frame_number: 1994
+    sharpness: 43.567907979230824
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0004_cand8.jpg
+    timestamp_s: 80.05538461538463
+    frame_number: 2001
+    sharpness: 42.03122974533688
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0004_cand9.jpg
+    timestamp_s: 80.34153846153846
+    frame_number: 2008
+    sharpness: 40.8472434410222
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0004_cand10.jpg
+    timestamp_s: 80.62769230769231
+    frame_number: 2015
+    sharpness: 41.73134162527236
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0004_cand11.jpg
+    timestamp_s: 80.91384615384615
+    frame_number: 2022
+    sharpness: 42.35350597691581
+  reviewed: true
+  kept: true
+  chosen_frame_path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0004_cand7.jpg
+- scene_index: 5
+  start_s: 81.2
+  end_s: 85.32
+  candidates:
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0005_cand0.jpg
+    timestamp_s: 81.51692307692308
+    frame_number: 2037
+    sharpness: 78.88911744208735
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0005_cand1.jpg
+    timestamp_s: 81.83384615384615
+    frame_number: 2045
+    sharpness: 81.67216759952498
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0005_cand2.jpg
+    timestamp_s: 82.15076923076923
+    frame_number: 2053
+    sharpness: 76.54613825508306
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0005_cand3.jpg
+    timestamp_s: 82.4676923076923
+    frame_number: 2061
+    sharpness: 75.27235236620957
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0005_cand4.jpg
+    timestamp_s: 82.78461538461538
+    frame_number: 2069
+    sharpness: 74.57938206298694
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0005_cand5.jpg
+    timestamp_s: 83.10153846153845
+    frame_number: 2077
+    sharpness: 70.35642775582498
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0005_cand6.jpg
+    timestamp_s: 83.41846153846154
+    frame_number: 2085
+    sharpness: 68.74262861606067
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0005_cand7.jpg
+    timestamp_s: 83.73538461538462
+    frame_number: 2093
+    sharpness: 68.47145325925689
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0005_cand8.jpg
+    timestamp_s: 84.05230769230769
+    frame_number: 2101
+    sharpness: 77.99289092756146
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0005_cand9.jpg
+    timestamp_s: 84.36923076923077
+    frame_number: 2109
+    sharpness: 73.62609034290404
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0005_cand10.jpg
+    timestamp_s: 84.68615384615384
+    frame_number: 2117
+    sharpness: 64.98403774060164
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0005_cand11.jpg
+    timestamp_s: 85.00307692307692
+    frame_number: 2125
+    sharpness: 64.54222586680433
+  reviewed: true
+  kept: false
+  chosen_frame_path: null
+- scene_index: 6
+  start_s: 85.32
+  end_s: 87.84
+  candidates:
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0006_cand0.jpg
+    timestamp_s: 85.51384615384615
+    frame_number: 2137
+    sharpness: 42.70344275007813
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0006_cand1.jpg
+    timestamp_s: 85.7076923076923
+    frame_number: 2142
+    sharpness: 42.348456676165114
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0006_cand2.jpg
+    timestamp_s: 85.90153846153845
+    frame_number: 2147
+    sharpness: 41.42223378008723
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0006_cand3.jpg
+    timestamp_s: 86.09538461538462
+    frame_number: 2152
+    sharpness: 41.72312307030949
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0006_cand4.jpg
+    timestamp_s: 86.28923076923077
+    frame_number: 2157
+    sharpness: 40.32603732478673
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0006_cand5.jpg
+    timestamp_s: 86.48307692307692
+    frame_number: 2162
+    sharpness: 41.31158851988992
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0006_cand6.jpg
+    timestamp_s: 86.67692307692307
+    frame_number: 2166
+    sharpness: 39.92410059362876
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0006_cand7.jpg
+    timestamp_s: 86.87076923076923
+    frame_number: 2171
+    sharpness: 39.7766189228555
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0006_cand8.jpg
+    timestamp_s: 87.06461538461538
+    frame_number: 2176
+    sharpness: 39.70407981097665
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0006_cand9.jpg
+    timestamp_s: 87.25846153846155
+    frame_number: 2181
+    sharpness: 37.99827127449072
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0006_cand10.jpg
+    timestamp_s: 87.4523076923077
+    frame_number: 2186
+    sharpness: 38.549691741715215
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0006_cand11.jpg
+    timestamp_s: 87.64615384615385
+    frame_number: 2191
+    sharpness: 39.655812577560276
+  reviewed: true
+  kept: true
+  chosen_frame_path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0006_cand0.jpg
+- scene_index: 7
+  start_s: 87.84
+  end_s: 93.2
+  candidates:
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0007_cand0.jpg
+    timestamp_s: 88.2523076923077
+    frame_number: 2206
+    sharpness: 74.07022258926203
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0007_cand1.jpg
+    timestamp_s: 88.66461538461539
+    frame_number: 2216
+    sharpness: 77.64477708315378
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0007_cand2.jpg
+    timestamp_s: 89.07692307692308
+    frame_number: 2226
+    sharpness: 72.01500207580906
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0007_cand3.jpg
+    timestamp_s: 89.48923076923077
+    frame_number: 2237
+    sharpness: 70.09377159864127
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0007_cand4.jpg
+    timestamp_s: 89.90153846153846
+    frame_number: 2247
+    sharpness: 72.55192421427887
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0007_cand5.jpg
+    timestamp_s: 90.31384615384616
+    frame_number: 2257
+    sharpness: 70.18571329678555
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0007_cand6.jpg
+    timestamp_s: 90.72615384615385
+    frame_number: 2268
+    sharpness: 65.93004053892912
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0007_cand7.jpg
+    timestamp_s: 91.13846153846154
+    frame_number: 2278
+    sharpness: 64.68890037413965
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0007_cand8.jpg
+    timestamp_s: 91.55076923076923
+    frame_number: 2288
+    sharpness: 67.92327715001153
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0007_cand9.jpg
+    timestamp_s: 91.96307692307693
+    frame_number: 2299
+    sharpness: 70.9436287450243
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0007_cand10.jpg
+    timestamp_s: 92.37538461538462
+    frame_number: 2309
+    sharpness: 71.16354737438498
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0007_cand11.jpg
+    timestamp_s: 92.78769230769231
+    frame_number: 2319
+    sharpness: 73.35508966959932
+  reviewed: true
+  kept: false
+  chosen_frame_path: null
+- scene_index: 8
+  start_s: 93.2
+  end_s: 95.0
+  candidates:
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0008_cand0.jpg
+    timestamp_s: 93.33846153846154
+    frame_number: 2333
+    sharpness: 39.74178507021471
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0008_cand1.jpg
+    timestamp_s: 93.47692307692309
+    frame_number: 2336
+    sharpness: 41.59624077210928
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0008_cand2.jpg
+    timestamp_s: 93.61538461538461
+    frame_number: 2340
+    sharpness: 41.39256462191264
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0008_cand3.jpg
+    timestamp_s: 93.75384615384615
+    frame_number: 2343
+    sharpness: 42.288870554337265
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0008_cand4.jpg
+    timestamp_s: 93.8923076923077
+    frame_number: 2347
+    sharpness: 43.79128953864957
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0008_cand5.jpg
+    timestamp_s: 94.03076923076924
+    frame_number: 2350
+    sharpness: 42.88220339922911
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0008_cand6.jpg
+    timestamp_s: 94.16923076923077
+    frame_number: 2354
+    sharpness: 40.930047229648586
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0008_cand7.jpg
+    timestamp_s: 94.3076923076923
+    frame_number: 2357
+    sharpness: 40.11640575816301
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0008_cand8.jpg
+    timestamp_s: 94.44615384615385
+    frame_number: 2361
+    sharpness: 38.76432243437427
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0008_cand9.jpg
+    timestamp_s: 94.58461538461539
+    frame_number: 2364
+    sharpness: 40.36736641271145
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0008_cand10.jpg
+    timestamp_s: 94.72307692307692
+    frame_number: 2368
+    sharpness: 39.619998545789024
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0008_cand11.jpg
+    timestamp_s: 94.86153846153846
+    frame_number: 2371
+    sharpness: 40.54435084474293
+  reviewed: true
+  kept: false
+  chosen_frame_path: null
+- scene_index: 9
+  start_s: 95.0
+  end_s: 99.52
+  candidates:
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0009_cand0.jpg
+    timestamp_s: 95.34769230769231
+    frame_number: 2383
+    sharpness: 70.0183057609036
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0009_cand1.jpg
+    timestamp_s: 95.69538461538461
+    frame_number: 2392
+    sharpness: 75.28720438818958
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0009_cand2.jpg
+    timestamp_s: 96.04307692307692
+    frame_number: 2401
+    sharpness: 74.70195413588931
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0009_cand3.jpg
+    timestamp_s: 96.39076923076922
+    frame_number: 2409
+    sharpness: 72.79640159839526
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0009_cand4.jpg
+    timestamp_s: 96.73846153846154
+    frame_number: 2418
+    sharpness: 71.30936165916957
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0009_cand5.jpg
+    timestamp_s: 97.08615384615385
+    frame_number: 2427
+    sharpness: 69.36673183548724
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0009_cand6.jpg
+    timestamp_s: 97.43384615384615
+    frame_number: 2435
+    sharpness: 65.02638147046126
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0009_cand7.jpg
+    timestamp_s: 97.78153846153846
+    frame_number: 2444
+    sharpness: 64.97291807490126
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0009_cand8.jpg
+    timestamp_s: 98.12923076923077
+    frame_number: 2453
+    sharpness: 74.97235912442095
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0009_cand9.jpg
+    timestamp_s: 98.47692307692307
+    frame_number: 2461
+    sharpness: 75.13315194231524
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0009_cand10.jpg
+    timestamp_s: 98.82461538461538
+    frame_number: 2470
+    sharpness: 72.09592205494812
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0009_cand11.jpg
+    timestamp_s: 99.17230769230768
+    frame_number: 2479
+    sharpness: 66.99037140388202
+  reviewed: true
+  kept: true
+  chosen_frame_path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0009_cand1.jpg
+- scene_index: 10
+  start_s: 99.52
+  end_s: 103.44
+  candidates:
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0010_cand0.jpg
+    timestamp_s: 99.82153846153845
+    frame_number: 2495
+    sharpness: 49.325555531740584
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0010_cand1.jpg
+    timestamp_s: 100.12307692307692
+    frame_number: 2503
+    sharpness: 47.405194335150256
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0010_cand2.jpg
+    timestamp_s: 100.42461538461538
+    frame_number: 2510
+    sharpness: 45.91409047061948
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0010_cand3.jpg
+    timestamp_s: 100.72615384615385
+    frame_number: 2518
+    sharpness: 41.945578194407375
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0010_cand4.jpg
+    timestamp_s: 101.0276923076923
+    frame_number: 2525
+    sharpness: 42.2851022275925
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0010_cand5.jpg
+    timestamp_s: 101.32923076923076
+    frame_number: 2533
+    sharpness: 43.789732824421435
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0010_cand6.jpg
+    timestamp_s: 101.63076923076923
+    frame_number: 2540
+    sharpness: 47.2298307273245
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0010_cand7.jpg
+    timestamp_s: 101.93230769230769
+    frame_number: 2548
+    sharpness: 52.056729350450304
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0010_cand8.jpg
+    timestamp_s: 102.23384615384614
+    frame_number: 2555
+    sharpness: 54.721610233090246
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0010_cand9.jpg
+    timestamp_s: 102.53538461538461
+    frame_number: 2563
+    sharpness: 52.55770446655571
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0010_cand10.jpg
+    timestamp_s: 102.83692307692307
+    frame_number: 2570
+    sharpness: 50.09157213421103
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0010_cand11.jpg
+    timestamp_s: 103.13846153846154
+    frame_number: 2578
+    sharpness: 48.15107733977495
+  reviewed: true
+  kept: false
+  chosen_frame_path: null
+- scene_index: 11
+  start_s: 103.44
+  end_s: 130.52
+  candidates:
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0011_cand0.jpg
+    timestamp_s: 105.52307692307693
+    frame_number: 2638
+    sharpness: 65.8652617869343
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0011_cand1.jpg
+    timestamp_s: 107.60615384615384
+    frame_number: 2690
+    sharpness: 77.50647340552469
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0011_cand2.jpg
+    timestamp_s: 109.68923076923078
+    frame_number: 2742
+    sharpness: 67.48414960267611
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0011_cand3.jpg
+    timestamp_s: 111.77230769230769
+    frame_number: 2794
+    sharpness: 71.12321417401893
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0011_cand4.jpg
+    timestamp_s: 113.85538461538462
+    frame_number: 2846
+    sharpness: 79.32245573272402
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0011_cand5.jpg
+    timestamp_s: 115.93846153846154
+    frame_number: 2898
+    sharpness: 76.22511944085731
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0011_cand6.jpg
+    timestamp_s: 118.02153846153847
+    frame_number: 2950
+    sharpness: 77.11728616203027
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0011_cand7.jpg
+    timestamp_s: 120.10461538461539
+    frame_number: 3002
+    sharpness: 77.60311083660059
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0011_cand8.jpg
+    timestamp_s: 122.18769230769232
+    frame_number: 3054
+    sharpness: 73.61459164113907
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0011_cand9.jpg
+    timestamp_s: 124.27076923076925
+    frame_number: 3106
+    sharpness: 51.18533553548847
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0011_cand10.jpg
+    timestamp_s: 126.35384615384616
+    frame_number: 3158
+    sharpness: 149.2361795910494
+  - path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0011_cand11.jpg
+    timestamp_s: 128.43692307692308
+    frame_number: 3210
+    sharpness: 149.2361795910494
+  reviewed: true
+  kept: true
+  chosen_frame_path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0011_cand10.jpg
+reference_images:
+- ref_id: set_office_floor
+  tag: set
+  description: Establishing wide of the empty open-plan office floor before the chaos
+    starts
+  raw_frame_path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0000_cand8.jpg
+  styled_frame_path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\styled\set_office_floor.jpg
+  restyle_status: pending_manual
+  restyle_provider: manual
+- ref_id: coworker_ref
+  tag: character
+  description: Sarah from HR skating backward, laughing, playful energy
+  raw_frame_path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0001_cand11.jpg
+  styled_frame_path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\styled\coworker_ref.jpg
+  restyle_status: pending_manual
+  restyle_provider: manual
+- ref_id: intern_ref
+  tag: character
+  description: Kevin the intern rollerblading with AirPods in, mid-spin, not looking
+  raw_frame_path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0002_cand2.jpg
+  styled_frame_path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\styled\intern_ref.jpg
+  restyle_status: pending_manual
+  restyle_provider: manual
+- ref_id: coworker_alarmed_ref
+  tag: character
+  description: Sarah gasping, hand over mouth, pointing in horror
+  raw_frame_path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0006_cand0.jpg
+  styled_frame_path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\styled\coworker_alarmed_ref.jpg
+  restyle_status: pending_manual
+  restyle_provider: manual
+- ref_id: danger_sign_ref
+  tag: prop
+  description: Wide shot of the unfinished floor edge with a DANGER sign and missing
+    railing tape
+  raw_frame_path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0009_cand1.jpg
+  styled_frame_path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\styled\danger_sign_ref.jpg
+  restyle_status: pending_manual
+  restyle_provider: manual
+- ref_id: intern_edge_ref
+  tag: character
+  description: Kevin teetering at the very edge, arms out for balance, oblivious
+  raw_frame_path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0011_cand10.jpg
+  styled_frame_path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\styled\intern_edge_ref.jpg
+  restyle_status: pending_manual
+  restyle_provider: manual
+shots:
+- id: shot_001
+  order: 1
+  label: Cold open - the empty office floor
+  raw_frame_path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0000_cand8.jpg
+  scene_index: 0
+  anchor_ref_id: set_office_floor
+  shot_type: wide
+  camera_move: static
+  subject_action: A cluttered open-plan tech office floor lined with product displays
+    and rolling desk chairs, completely empty
+  character_count: 0
+  beat_before_gag: long static hold on the empty floor before anyone enters, letting
+    the space register as ordinary
+  notes: ''
+  status: prompted
+- id: shot_002
+  order: 2
+  label: Coworker glides in, all confidence
+  raw_frame_path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0001_cand11.jpg
+  scene_index: 1
+  anchor_ref_id: coworker_ref
+  shot_type: medium
+  camera_move: handheld
+  subject_action: Sarah from HR rollerblades backward across the office floor, laughing
+    over her shoulder at someone off-camera
+  character_count: 1
+  beat_before_gag: ''
+  notes: ''
+  status: prompted
+- id: shot_003
+  order: 3
+  label: The intern joins in, oblivious and on a call
+  raw_frame_path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0002_cand2.jpg
+  scene_index: 2
+  anchor_ref_id: intern_ref
+  shot_type: medium
+  camera_move: slow push-in
+  subject_action: New intern Kevin skates in on rollerblades, AirPods in, deep in
+    a work call, doing a little spin without looking where he's going
+  character_count: 1
+  beat_before_gag: ''
+  notes: ''
+  status: prompted
+- id: shot_004
+  order: 4
+  label: Sarah clocks the danger
+  raw_frame_path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0004_cand7.jpg
+  scene_index: 4
+  anchor_ref_id: coworker_alarmed_ref
+  shot_type: medium
+  camera_move: static
+  subject_action: Sarah's smile drops as she spots Kevin drifting toward the unmarked
+    construction zone behind him
+  character_count: 1
+  beat_before_gag: holds on her frozen half-smile for a beat before the alarm fully
+    registers on her face
+  notes: ''
+  status: prompted
+- id: shot_005
+  order: 5
+  label: Sarah reacts in horror
+  raw_frame_path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0006_cand0.jpg
+  scene_index: 6
+  anchor_ref_id: coworker_alarmed_ref
+  shot_type: close-up
+  camera_move: static
+  subject_action: Sarah claps a hand over her mouth, eyes wide, pointing frantically
+    toward Kevin
+  character_count: 1
+  beat_before_gag: ''
+  notes: ''
+  status: prompted
+- id: shot_006
+  order: 6
+  label: Kevin skates the edge, totally unaware
+  raw_frame_path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0009_cand1.jpg
+  scene_index: 9
+  anchor_ref_id: danger_sign_ref
+  shot_type: wide
+  camera_move: locked-off
+  subject_action: Kevin rolls calmly along the exposed ledge of the unfinished renovation
+    zone, right past a DANGER floor-ends sign, still talking into his AirPods about
+    quarterly numbers
+  character_count: 1
+  beat_before_gag: let him coast for a full beat right at the edge before continuing,
+    milking the obliviousness
+  notes: ''
+  status: prompted
+- id: shot_007
+  order: 7
+  label: The near-miss recovery
+  raw_frame_path: C:\Users\jenis\silent-film-remake\projects\roller-skating-snl\frames\raw\scene0011_cand10.jpg
+  scene_index: 11
+  anchor_ref_id: intern_edge_ref
+  shot_type: wide
+  camera_move: static
+  subject_action: Kevin's rollerblades teeter right at the drop-off, arms pinwheeling
+    for balance for a split second, then he casually rolls back to safety without
+    ever noticing, already laughing at something on his call
+  character_count: 1
+  beat_before_gag: ''
+  notes: ''
+  status: prompted
